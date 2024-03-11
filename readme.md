@@ -24,6 +24,9 @@ Tarea de entornos
 2. **Realizar operaciones:**
    - El programa realiza algunas operaciones básicas, como imprimir mensajes y mostrar la fecha y hora actual.
 
+## Implementación método hora y fecha
+Se ha añadido un método para saber la hora y fecha actuales a la clase Principal.java
+
 ## Contacto
 
 david11sori@gmail.com
